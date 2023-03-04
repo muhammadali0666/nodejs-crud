@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "olma",
+        "color": "yashil",
+        "price": "20 000"
+    },
+    {
+        "id": "2",
+        "title": "uzum",
+        "color": "qora",
+        "price": "30 000"
+    },
+    {
+        "id": "3",
+        "title": "anor",
+        "color": "qizil",
+        "price": "15 000"
+    },
+    {
+        "id": "4",
+        "title": "shaftoli",
+        "color": "sariq",
+        "price": "40 000"
+    },
+    {
+        "id": "f35c271f-4a06-4ae1-9731-414295175d98",
+        "title": "olma",
+        "color": "yash",
+        "price": "20 000"
+    }
+]

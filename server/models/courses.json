@@ -1,0 +1,20 @@
+[
+    {
+        "id": "c93edff9-6868-4993-8b9e-db71aa213367",
+        "title": "zero to hero",
+        "price": "500000",
+        "author": "muhammadali"
+    },
+    {
+        "id": "6686fd0b-0d3a-4cb1-a98f-3cae8b143b0b",
+        "title": "js",
+        "price": "100$",
+        "author": "sanjar"
+    },
+    {
+        "id": "6fad7c56-34af-4951-b66b-24f5e24ea50e",
+        "title": "css",
+        "price": "500000",
+        "author": "muhammadali"
+    }
+]

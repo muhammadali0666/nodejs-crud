@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "mers",
+        "color": "black",
+        "price": "200 000$"
+    },
+    {
+        "id": "2",
+        "title": "bmw",
+        "color": "black",
+        "price": "100 000$"
+    },
+    {
+        "id": "3",
+        "title": "malibu",
+        "color": "black",
+        "price": "10 000$"
+    },
+    {
+        "id": "4",
+        "title": "cobalt",
+        "color": "black",
+        "price": "3 000$"
+    },
+    {
+        "id": "cbf35851-3d63-460b-8239-e77ea5be4a80",
+        "title": "gentra",
+        "color": "qor",
+        "price": "20 000"
+    }
+]

@@ -1,0 +1,15 @@
+/*
+
+  animals
+  cars
+  fruits
+           create
+              read
+
+              update
+              delete
+              get one
+
+
+
+*/
